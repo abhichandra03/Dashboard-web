@@ -33,11 +33,6 @@ const Sidebar = ({ children }) => {
               <HiOutlineShoppingBag size={20} />
             </div>
           </Link>
-          <Link href="/">
-            <div className="bg-gray-200 p-3 rounded-lg inline-block my-4 hover:bg-gray-400 cursor-pointer">
-              <FiSettings size={20} />
-            </div>
-          </Link>
         </div>
 
         <div className="mb-4">
